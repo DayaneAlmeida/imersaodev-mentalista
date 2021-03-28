@@ -1,8 +1,8 @@
 # imersaodev-mentalista
-Projeto construído durante a 2º aula da Imersão Dev proporcionado pela Alura.
+Projeto construído durante a 3º aula da Imersão Dev proporcionado pela Alura.
 
 
----------->AULA 02 IMERSÃO DEV--------- 
+---------->AULA 03 IMERSÃO DEV--------- 
 MENTALISTA E NÚMEROS ALEATÓRIOS
 PARTICIPE E VÁ MAIS FUNDO
 Nesta terceira aula da Imersão Dev, vamos criar uma jogo de adivinhação, onde o programa escolhe um número aleatório e nós vamos tentar acertar. O projeto inicial se encontra no link abaixo:
